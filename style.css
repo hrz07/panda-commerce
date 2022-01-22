@@ -7,3 +7,15 @@ button{
 .price{
     color: #FF136F;
 }
+.watch{
+    background: #ffa501;
+}
+.bag{
+    background: #da70d6;
+}
+.shoes{
+    background: #0000ff;
+}
+.category .col-md-3{
+    border-radius: 10px;
+}
